@@ -12,4 +12,4 @@ This project demonstrates a variety of intermediate concepts in R including:
 
 - Utilities
 
-[Click here to see the full project[(https://isaac110820.github.io/Intermediate-Concepts-in-R/Intermediate_R.html)
+[Click here to see the full project](https://isaac110820.github.io/Intermediate-Concepts-in-R/Intermediate_R.html)
